@@ -68,7 +68,7 @@ We store only your most recent shared position for each trip, not a history of y
 
 - **Undoing actions.** You can undo a trip start, an arrival mark or a cancellation from the same phone; undoing a trip start deletes it and its location record.
 - **Your device identifier** stays on your phone until you clear the app's storage or uninstall the app. After that, a new random ID is created and old records can no longer be linked to your phone.
-- **Deletion requests.** Because there are no accounts, email us at **shyamanthawijesiri33@gmail.com **to ask us to delete data linked to your device. We will tell you how to find your device identifier and act within 30 days.
+- **Deletion requests.** Because there are no accounts, email us at **shyamanthawijesiri33@gmail.com** to ask us to delete data linked to your device. We will tell you how to find your device identifier and act within 30 days.
 
 ## Security, children and your rights
 
